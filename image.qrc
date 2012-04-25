@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LetterA.png</file>
+        <file>Lossless-circle.png</file>
+        <file>LetterC.png</file>
+        <file>LetterD.png</file>
+        <file>LetterF.png</file>
+        <file>finalbackground2.png</file>
+        <file>LetterB.png</file>
+        <file>Cheat.png</file>
+        <file>ExtraCredit.png</file>
+        <file>FreshmanForgiveness.png</file>
+        <file>Hangover.png</file>
+        <file>OfficeHours.png</file>
+        <file>Sleep.png</file>
+        <file>Study.png</file>
+    </qresource>
+</RCC>
